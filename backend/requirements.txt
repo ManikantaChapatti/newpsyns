@@ -1,0 +1,6 @@
+fastapi
+uvicorn[standard]
+python-multipart
+pydantic
+opencv-contrib-python-headless>=4.8
+numpy>=1.24
